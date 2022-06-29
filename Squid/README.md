@@ -1,3 +1,4 @@
+# Squid
 This is a simple custom squid configuration file I edited.
 
 To edit this file, jump to line 1411. You can edit the port number, add rules and set it up.
